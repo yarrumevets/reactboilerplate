@@ -31,6 +31,10 @@ The build creates 2 folders: `.parcel-cache` and `dist`
 
 Go to `localhost:1234` in your browser
 
+## Resources
+
+&#x1F4E6; Parcel - https://parceljs.org/recipes/react/
+
 # &#x1F4CC; React Boilerplate 02
 
 <p align="center">.&nbsp;&nbsp;.&nbsp;&nbsp;.</p>
