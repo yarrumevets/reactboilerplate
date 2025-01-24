@@ -37,4 +37,4 @@ Go to `localhost:1234` in your browser
 
 # &#x1F4CC; React Boilerplate 02
 
-<p align="center">.&nbsp;&nbsp;.&nbsp;&nbsp;.</p>
+<p align="center">.&nbsp;&nbsp;.&nbsp;&nbsp;. coming soon .&nbsp;&nbsp;.&nbsp;&nbsp;.</p>
