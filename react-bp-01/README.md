@@ -30,3 +30,8 @@ yarn parcel src/index.html
 The build creates 2 folders: `.parcel-cache` and `dist`
 
 Go to `localhost:1234` in your browser
+
+<br/>
+<br/>
+
+[ Back to main ⤵️ ](../README.md)
